@@ -1,3 +1,5 @@
+#include<iostream>
+using namespace std;
 void initialize(int W[][5], int D[][5], int Pi[][5])
 {
     int n = 5;
